@@ -1,0 +1,22 @@
+//
+//  MVCTest.pch
+//  MVCTest
+//
+//  Created by Mr Qian on 2016/12/22.
+//  Copyright © 2016年 Mr Qian. All rights reserved.
+//
+
+#ifndef MVCTest_pch
+#define MVCTest_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+
+#import "YDImageView.h"
+#import "YDRequest.h"
+#import "CityEntity.h"
+
+#endif
+
+#endif /* MVCTest_pch */
